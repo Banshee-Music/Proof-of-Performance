@@ -1,5 +1,5 @@
 
-Proof of work royalty model for musicians.
+
 # Banshee Protocol Whitepaper
 
 ## Proof-of-Performance for Fair Music Monetization
