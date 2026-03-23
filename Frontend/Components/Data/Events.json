@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Pete Myers",
+    "IPFS_URL": "https://gateway.pinata.cloud/ipfs/QmZuNAwmVZdh9f9p774uhKxXFWZ6Kc1BLim4Hm8Jxnr8XU",
+    "category": "Rock",
+    "creator": "0xe49E00070f4d75b211518Fb0CDe09b32226587A3",
+    "description": "A mythical dragon that roams the cosmos, adorned with constellations and celestial light",
+    "image": "https://gateway.pinata.cloud/ipfs/bafybeietqskwhcr3wvpkwzcc53z2ic6tf4fypgvhrj24bmxqqfadidahgy"
+  },
+  {
+    "name": "Loon One",
+    "IPFS_URL": "https://gateway.pinata.cloud/ipfs/QmZuNAwmVZdh9f9p774uhKxXFWZ6Kc1BLim4Hm8Jxnr8XU",
+    "category": "Hip-Hop/RAP",
+    "creator": "0xe49E00070f4d75b211518Fb0CDe09b32226587A3",
+    "description": "A futuristic warrior clad in neon armor, ready to battle in the streets of a cyberpunk city",
+    "image": "https://gateway.pinata.cloud/ipfs/bafybeid6kz3hxldv42e24qzy4h5igzfcmaforo5xxtlhjoj2ydetyrdqmy"
+  },
+  {
+    "name": "Galactic Voyagers",
+    "IPFS_URL": "https://gateway.pinata.cloud/ipfs/QmZuNAwmVZdh9f9p774uhKxXFWZ6Kc1BLim4Hm8Jxnr8XU",
+    "category": "Country",
+    "creator": "0xe49E00070f4d75b211518Fb0CDe09b32226587A3",
+    "description": "An explorer's ship that travels through uncharted galaxies, filled with mysterious treasures.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafybeibbse7p4drxf546j4f2jj3rsjmjjsxcsxwm5tohu3syouvbtjk3t4"
+  },
+  {
+    "name": "Digital Dreams",
+    "IPFS_URL": "https://gateway.pinata.cloud/ipfs/QmZuNAwmVZdh9f9p774uhKxXFWZ6Kc1BLim4Hm8Jxnr8XU",
+    "category": "Rock",
+    "creator": "0xe49E00070f4d75b211518Fb0CDe09b32226587A3",
+    "description": "A vibrant representation of abstract patterns that shift and morph in a digital landscape.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafybeibmenynslymxwovauhgx3iclidooqda4jt63rr3lj2pdlxohjtw6m"
+  },
+  {
+    "name": "Blake & Blake",
+    "IPFS_URL": "https://gateway.pinata.cloud/ipfs/QmZuNAwmVZdh9f9p774uhKxXFWZ6Kc1BLim4Hm8Jxnr8XU",
+    "category": "R&B",
+    "creator": "0xe49E00070f4d75b211518Fb0CDe09b32226587A3",
+    "description": "A beautiful flower that never withers, symbolizing immortality and endless beauty.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafybeid3aduzm2e5mtb2spvt426ddl4mkjhe6h5ds5dv3mqzh7dvamskma"
+  },
+  {
+    "name": "The Pixie Cat",
+    "IPFS_URL": "https://gateway.pinata.cloud/ipfs/QmZuNAwmVZdh9f9p774uhKxXFWZ6Kc1BLim4Hm8Jxnr8XU",
+    "category": "Rock",
+    "creator": "0xe49E00070f4d75b211518Fb0CDe09b32226587A3",
+    "description": "A pixelated robotic cat designed to be your virtual companion in a digital world.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafybeibgtounf5w7hwwcb4dklnh2lvhjy55ttf6tsijkigfi6lwwijfblq"
+  },
+  {
+    "name": "Mark Guardio",
+    "IPFS_URL": "https://gateway.pinata.cloud/ipfs/QmZuNAwmVZdh9f9p774uhKxXFWZ6Kc1BLim4Hm8Jxnr8XU",
+    "category": "Rock",
+    "creator": "0xe49E00070f4d75b211518Fb0CDe09b32226587A3",
+    "description": "A stone statue of an ancient warrior who protects sacred temples with its mystical powers",
+    "image": "https://gateway.pinata.cloud/ipfs/QmaNS34mzBoS3aWqU3uc6cv3wL9hmzBYUYcN7e2uESCE8H"
+  },
+  {
+    "name": "Street Graffiti",
+    "IPFS_URL": "https://gateway.pinata.cloud/ipfs/QmZuNAwmVZdh9f9p774uhKxXFWZ6Kc1BLim4Hm8Jxnr8XU",
+    "category": "Hip-Hop/Rap",
+    "creator": "0xe49E00070f4d75b211518Fb0CDe09b32226587A3",
+    "description": "A lively mural showcasing the vibrant culture of city life, painted in bold and dynamic colors.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafybeibwavcdogg4f6dbzvfe46vxoxzzzua4v7wljklx4v4yjvv2xfznne"
+  }
+]

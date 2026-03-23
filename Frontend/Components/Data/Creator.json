@@ -1,0 +1,12 @@
+[
+  {
+    "name": "X-Factor",
+    "job": "Developer",
+    "image": "../assets/images/collections/16.jpg"
+  },
+  {
+    "name": "Pete Myers",
+    "job": "Recording Artist",
+    "image": "../assets/images/collections/Pete.JPG"
+  }
+]
