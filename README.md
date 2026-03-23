@@ -2,8 +2,12 @@ PROOF OF PERFORMANCE
 
 
 Contracts Addresses on BNB Smart Chain Testnet:
+
 BansheeToken: 0x5d3DD9f67618b1500f3a03D66921A67dAe09C298
+
 BansheeReputation: 0x880fe78C2E1bd0Ac2c6580Dc99f47C29107d9884
+
 BansheeMining: 0x59De9918eE0cba2a60368104C289bE9EB8973E34
+
 BansheeTicketMarketplace: 0xe49E00070f4d75b211518Fb0CDe09b32226587A3
 
