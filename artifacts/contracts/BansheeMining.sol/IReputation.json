@@ -1,0 +1,43 @@
+{
+  "_format": "hh3-artifact-1",
+  "contractName": "IReputation",
+  "sourceName": "contracts/BansheeMining.sol",
+  "abi": [
+    {
+      "inputs": [
+        {
+          "internalType": "address",
+          "name": "artist",
+          "type": "address"
+        }
+      ],
+      "name": "reputation",
+      "outputs": [
+        {
+          "internalType": "uint256",
+          "name": "chunksServed",
+          "type": "uint256"
+        },
+        {
+          "internalType": "uint256",
+          "name": "uniqueFans",
+          "type": "uint256"
+        },
+        {
+          "internalType": "uint256",
+          "name": "reputationScore",
+          "type": "uint256"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ],
+  "bytecode": "0x",
+  "deployedBytecode": "0x",
+  "linkReferences": {},
+  "deployedLinkReferences": {},
+  "immutableReferences": {},
+  "inputSourceName": "project/contracts/BansheeMining.sol",
+  "buildInfoId": "solc-0_8_28-125afb21dd07dbde7743e4800a9b4cbe7b4e0a33"
+}

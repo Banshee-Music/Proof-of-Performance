@@ -1,0 +1,38 @@
+{
+  "_format": "hh3-sol-build-info-1",
+  "id": "solc-0_8_28-f004eb800849db02a647a7669722023f190c35c2",
+  "solcVersion": "0.8.28",
+  "solcLongVersion": "0.8.28+commit.7893614a",
+  "userSourceNameMap": {
+    "contracts/mocks/MockIdentityVerifier.sol": "project/contracts/mocks/MockIdentityVerifier.sol"
+  },
+  "input": {
+    "language": "Solidity",
+    "settings": {
+      "evmVersion": "cancun",
+      "outputSelection": {
+        "*": {
+          "": [
+            "ast"
+          ],
+          "*": [
+            "abi",
+            "evm.bytecode",
+            "evm.deployedBytecode",
+            "evm.methodIdentifiers",
+            "metadata"
+          ]
+        }
+      },
+      "remappings": []
+    },
+    "sources": {
+      "project/contracts/interfaces/IIdentityVerifier.sol": {
+        "content": "// SPDX-License-Identifier: MIT\r\npragma solidity ^0.8.20;\r\n\r\ninterface IIdentityVerifier {\r\n    function verify(\r\n        bytes calldata proof,\r\n        bytes32 identityHash\r\n    ) external view returns (bool);\r\n}"
+      },
+      "project/contracts/mocks/MockIdentityVerifier.sol": {
+        "content": "// SPDX-License-Identifier: MIT\r\npragma solidity ^0.8.28;\r\n\r\nimport \"../interfaces/IIdentityVerifier.sol\";\r\n\r\ncontract MockIdentityVerifier is IIdentityVerifier {\r\n    bool public shouldVerify = true;\r\n\r\n    function setShouldVerify(bool value) external {\r\n        shouldVerify = value;\r\n    }\r\n\r\n    function verify(\r\n        bytes calldata,\r\n        bytes32\r\n    ) external view override returns (bool) {\r\n        return shouldVerify;\r\n    }\r\n}"
+      }
+    }
+  }
+}
