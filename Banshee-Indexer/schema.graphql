@@ -1,0 +1,23 @@
+type Ticket @entity {
+  id: ID!
+  ticketId: BigInt!
+  buyer: String!
+  artist: String!
+  identityHash: String!
+  mintedAt: BigInt!
+}
+
+type UnlockEvent @entity {
+  id: ID!
+  ticketId: BigInt!
+  user: String!
+  timestamp: BigInt!
+}
+
+type Receipt @entity {
+  id: ID!
+  artist: String!
+  fan: String!
+  chunks: BigInt!
+  timestamp: BigInt!
+}
